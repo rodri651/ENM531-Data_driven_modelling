@@ -42,5 +42,5 @@ run opt\_logistic\_regression/electrical\_grids.ipynb
 
 #####IMAGE3
 
-This work is an adoption of work done in [paper](https://arxiv.org/pdf/1711.10561.pdf) Physics Informed Deep Learning for Nonlinear Partial Differential Equations
+This work is an adoption of work done in _Physics Informed Deep Learning for Nonlinear Partial Differential Equations_ [paper](https://arxiv.org/pdf/1711.10561.pdf)
 

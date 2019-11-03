@@ -1,7 +1,7 @@
 # Data Driven Modelling
 
 ## Overview
-This repository contains the work done as a part of the ENM 531: Data Driven Modelling course at Upenn 
+This repository contains the work done as a part of the [ENM 531: Data Driven Modelling](https://www.seas.upenn.edu/~enm531/) course at Upenn 
 
 ## Dependencies
 - Numpy
